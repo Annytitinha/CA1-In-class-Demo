@@ -23,7 +23,7 @@
         <product>
             <item>EMPORIO ARMANI He Mens Eau de Toilette 50ml</item>
             <price>€56.00</price>
-        </prodyct>
+        </product>
         <product>
             <item>Jimmy Choo Urban Hero 50ml EDP Gift Set</item>
             <price>€62.00</price>
@@ -63,11 +63,11 @@
         <product>
             <item>Ralph Lauren Woman Eau de Parfum 50ml</item>
             <price>€48.00</price>
+        </product>
         <product>
             <item>Gucci Bamboo Eau de Toilette For Her 75ml(Was €105.00)</item>
             <price>€52.50</price>
         </product>
-            
-        </product>
+              
     </section>
 </catalog>
