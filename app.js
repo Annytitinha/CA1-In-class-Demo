@@ -6,7 +6,7 @@ var http = require('http'), //This module provides the HTTP server functionaliti
     xsltProcess = require('xslt-processor').xsltProcess, //The same module allows us to utilise XSL Transformations
     xml2js = require('xml2js'); //This module does XML to JSON conversion and also allows us to get from JSON back to XML
 
-    expAutoSan = require('express-autosanittizer'); // This module does the sanitisation 
+    expAutoSan = require('express-autosanitizer'); // This module does the sanitisation 
 
 var router = express(); //The set our routing to be handled by Express
 var server = http.createServer(router); //This is where our server gets created
