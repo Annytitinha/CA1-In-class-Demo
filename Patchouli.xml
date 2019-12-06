@@ -2,18 +2,6 @@
 <catalog>
   <section name="Wome's Perfum">
     <product>
-      <item>Marc Jacobs Daisy Dream Forever Eau de Parfum 50ml</item>
-      <price>46.00</price>
-    </product>
-    <product>
-      <item>Dolce Gabbana Light Blue Eau Intense Eau de Parfum 50ml</item>
-      <price>40.50</price>
-    </product>
-    <product>
-      <item>Gucci Bamboo Eau de Toilette For Her 75ml</item>
-      <price>39.00</price>
-    </product>
-    <product>
       <item>EMPORIO ARMANI She Eau de Parfum 50ml</item>
       <price>59.00</price>
     </product>
@@ -38,6 +26,10 @@
     <product>
       <item>Carolina Herrera 212 VIP Men Black Eau de Parfum 50ml</item>
       <price>39.00</price>
+    </product>
+    <product>
+      <item>1</item>
+      <price>39</price>
     </product>
   </section>
   <section name="Make up">
