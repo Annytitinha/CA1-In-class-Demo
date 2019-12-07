@@ -20,8 +20,11 @@ function draw_table()
 
 function select_row()
 {
+	// changed menuTable 
 	$("#productTable tbody tr[id]").click(function ()
 	{
+		
+
 		$(".selected").removeClass("selected");
 		$(this).addClass("selected");
 		var section = $(this).prevAll("tr").children("td[colspan='3']").length - 1;
