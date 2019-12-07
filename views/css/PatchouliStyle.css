@@ -20,6 +20,7 @@ table, th, td {
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;
+     background: white; /* cor de fundo da tabela*/
 }
  table {
      border-collapse: collapse;
