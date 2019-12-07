@@ -20,22 +20,27 @@ table, th, td {
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;
-     
+     background: white; /* cor de fundo da tabela*/
 }
  table {
      border-collapse: collapse;
      width:100%;
-     background-color: white; /*cor de fundo da tabela*/
 }
  td, th {
-     border: 1px solid #ced4da;
-     padding: 0.5rem;
-     text-align: left;
+    text-align: left;
+    border: 1px solid #ddd;
+    padding: 8px;
 }
  th {
      font-weight: bold;
+  
 }
-tr:hover {background-color: #ddd;}
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+tr:hover {
+  background-color: #ddd;
+}
 .selected {
             background-color: #dc3545;
             color: #FFF;
